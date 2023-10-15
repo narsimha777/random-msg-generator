@@ -1,5 +1,5 @@
-let blank1 = ["awesome",'great','good','bad'];
-let blank2 = ['friends','relatives','surroundings','ghost'];
+let blank1 = ["awesome(❁´◡`❁)",'great(●U●)','good ╰(*°▽°*)╯','bad ☆*: .｡. o(≧▽≦)o .｡.:*☆ '];
+let blank2 = ['friends🐥','relatives®️','surroundings🧑‍🤝‍🧑','ghost👻'];
 let blank3 = ['have',"haven't"];
 
 function ind(){
@@ -12,6 +12,6 @@ function ind(){
 
 let indexs = ind();
 
-console.log(`Today is ${blank1[indexs[0]]} day for you and your ${blank2[indexs[1]]} as you ${blank3[indexs[2]]} worked hard`);
+console.log(`Today is a ${blank1[indexs[0]]} day for you and your ${blank2[indexs[1]]} as you ${blank3[indexs[2]]} worked hard`);
 
 
